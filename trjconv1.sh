@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #read -p "System name (wt_disp): " NAME
+# modified1
 
 NAME=$1 #"cort_wt"
 dtval=1
